@@ -1,0 +1,64 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "preferred_artist": 1,
+      "preferred_genre": "singer-songwriter",
+      "days_due_from_order": 4
+    },
+    {
+      "id": 2,
+      "preferred_artist": 2,
+      "preferred_genre": "country",
+      "days_due_from_order": 4
+    },
+    {
+      "id": 3,
+      "preferred_artist": 1,
+      "preferred_genre": "singer-songwriter",
+      "days_due_from_order": 4
+    },
+    {
+      "id": 4,
+      "preferred_artist": 3,
+      "preferred_genre": "country",
+      "days_due_from_order": 4
+    },
+    {
+      "id": 5,
+      "preferred_artist": 3,
+      "preferred_genre": "singer-songwriter",
+      "days_due_from_order": 4
+    },
+    {
+      "id": 6,
+      "preferred_artist": 5,
+      "preferred_genre": "r&b",
+      "days_due_from_order": 4
+    },
+    {
+      "id": 7,
+      "preferred_artist": 4,
+      "preferred_genre": "r&b",
+      "days_due_from_order": 4
+    },
+    {
+      "id": 8,
+      "preferred_artist": 5,
+      "preferred_genre": "r&b",
+      "days_due_from_order": 4
+    },
+    {
+      "id": 9,
+      "preferred_artist": 3,
+      "preferred_genre": "country",
+      "days_due_from_order": 4
+    },
+    {
+      "id": 10,
+      "preferred_artist": 5,
+      "preferred_genre": "r&b",
+      "days_due_from_order": 4
+    }
+  ]
+}

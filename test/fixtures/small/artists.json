@@ -1,0 +1,49 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Artist 1",
+      "capacity": 3,
+      "current_orders": [],
+      "verified": true,
+      "rating": 8,
+      "genre": ["singer-songwriter", "country"]
+    },
+    {
+      "id": 2,
+      "name":  "Artist 2",
+      "capacity":  2,
+      "current_orders": [],
+      "verified": true,
+      "rating": 9,
+      "genre": ["singer-songwriter"]
+    },
+    {
+      "id": 3,
+      "name":  "Artist 3",
+      "capacity":  2,
+      "current_orders": [],
+      "verified": false,
+      "rating": 7,
+      "genre": ["country"]
+    },
+    {
+      "id": 4,
+      "name":  "Artist 4",
+      "capacity":  2,
+      "current_orders": [],
+      "verified": true,
+      "rating": 9,
+      "genre": ["r&b"]
+    },
+    {
+      "id": 5,
+      "name":  "Artist 5",
+      "capacity":  2,
+      "current_orders": [],
+      "verified": true,
+      "rating": 8,
+      "genre": ["r&b"]
+    }
+  ]
+}
