@@ -9,7 +9,7 @@ module TestCase
           puts "expected", expected
           puts "actual", actual
 
-          "failed"
+          "^ failed"
         end
 
       message = "#{result}: #{name}"
